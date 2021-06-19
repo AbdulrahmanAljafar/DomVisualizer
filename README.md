@@ -17,7 +17,7 @@ This app visualize all dom nodes located at [index.html](index.html)
 <br>
 
 # Download
-- run ```git clone https://github.com/AhmedTuwaiq/DomVisualizer.git```
+- run ```git clone https://github.com/AbdulrahmanAljafar/DomVisualizer```
 - open [index.html](index.html)
 
 <br>
