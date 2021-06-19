@@ -21,5 +21,3 @@ This app visualize all dom nodes located at [index.html](index.html)
 - open [index.html](index.html)
 
 <br>
-
-## Author: Ahmed Alzubaidi
